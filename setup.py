@@ -6,7 +6,7 @@ def install(package):
 
 # List of required packages
 required_packages = [
-    "python-tk"
+    "tk"
 ]
 
 for package in required_packages:
